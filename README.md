@@ -4,7 +4,7 @@ Jaeger propagator for OpenTelemetry
 
 [![License](https://img.shields.io/github/license/seankhliao/otel-jaeger-propagator.svg?style=flat-square)](LICENSE)
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/seankhliao/otel-jaeger-propagator)
-![Version](https://img.shields.io/github/v/tag/seankhliao/com-seankhliao?sort=semver&style=flat-square)
+![Version](https://img.shields.io/github/v/tag/seankhliao/otel-jaeger-propagator?sort=semver&style=flat-square)
 
 ## Usage
 
